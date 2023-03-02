@@ -1,0 +1,10 @@
+{
+  "Url": "https://vk.com/",
+  "Access_token": "vk1.a.ZtmOTMWpymrwNXbRNqe3T_znkGrIW978ZzxysAk3NTA_ECZea949SZ0ez-eX8ACS1a_J3WShXwDpZbtqGaCwB7DU7JgXg6ighRRJojIMPTbU1PC6mlSOFnKpOPYygyIGaeUUT08_6exgroQo23Sh58JM3ZMyiEEplAtVbQ2SHgwSL15GrTuKIhqWGmMPnbPDf6O9oNgce6qqo7GfMGjtdg",
+  "ApiVkVersion": "5.131",
+  "ApiAddress": "https://api.vk.com/method/",
+  "RandomStringLength": 11,
+  "owner_id": "759177046",
+  "PostPhoto": "photo",
+  "ObjectType": "post"
+}
