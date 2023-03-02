@@ -6,4 +6,4 @@ The purpose of this project is to verify the functionality and reliability of th
 
 Problem it Solves:
 I need to ensure that the API endpoints they utilize are working correctly and return accurate data. However, it can be time-consuming and tedious to manually test each endpoint, especially as the number of endpoints increases. This project solves this problem by automating the testing process and providing a way to quickly and easily validate the functionality of the API endpoints.
-# d2.kaladinskaya
+
