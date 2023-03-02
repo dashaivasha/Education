@@ -1,0 +1,1 @@
+Select project.name as ProjectName, test.name, CAST(start_time As datetime) As StartTime FROM test join project on test.project_id = project.id WHERE start_time > FROM_UNIXTIME('2015-11-70 23:09:07') Order by test.name, project.name;
